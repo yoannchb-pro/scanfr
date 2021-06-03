@@ -1,0 +1,35 @@
+{
+    "name": "scanfr",
+    "version": "1.0.0",
+    "description": "Il s'agit d'un scrapper pour scanfr.com",
+    "main": "./lib/scanfr.js",
+    "directories": {
+        "lib": "lib"
+    },
+    "scripts": {
+        "test": "node ./lib/test.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/yoannchb-pro/scanfr.git"
+    },
+    "dependencies": {
+        "got": "11.8.2",
+        "dom-parser": "0.1.6"
+    },
+    "keywords": [
+        "scanfr",
+        "scrap",
+        "anime",
+        "json",
+        "database",
+        "image",
+        "free"
+    ],
+    "author": "yoannchb",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/yoannchb-pro/scanfr/issues"
+    },
+    "homepage": "https://github.com/yoannchb-pro/scanfr#readme"
+}
