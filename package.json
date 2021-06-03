@@ -1,7 +1,7 @@
 {
     "name": "scanfr",
-    "version": "1.0.0",
-    "description": "Il s'agit d'un scrapper pour scanfr.com",
+    "version": "1.0.1",
+    "description": "Il s'agit d'un scrapper pour https://scan-f.cc",
     "main": "./lib/scanfr.js",
     "directories": {
         "lib": "lib"
