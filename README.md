@@ -1,8 +1,6 @@
-# Scanfr 1.0.1
+# Scanfr 1.0.3
 ## 🎉 Update
-- BUG correcttion for reading, nextPage and previousPage
-- Method added : goToPage
-- Improvement
+- BUG correcttion to get the volumes
 
 ## 📖 Description
 It's a scrapper for https://www.scan-fr.cc/

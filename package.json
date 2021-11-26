@@ -1,6 +1,6 @@
 {
     "name": "scanfr",
-    "version": "1.0.1",
+    "version": "1.0.3",
     "description": "Il s'agit d'un scrapper pour https://scan-f.cc",
     "main": "./lib/scanfr.js",
     "directories": {
@@ -14,8 +14,9 @@
         "url": "git+https://github.com/yoannchb-pro/scanfr.git"
     },
     "dependencies": {
-        "got": "11.8.2",
-        "dom-parser": "0.1.6"
+        "cors": "^2.8.5",
+        "dom-parser": "0.1.6",
+        "got": "11.8.2"
     },
     "keywords": [
         "scanfr",
